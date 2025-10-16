@@ -1,4 +1,3 @@
-![logo](https://github.com/Shivam-Choubey/Shivam-Choubey/blob/main/profile.png)
 <h1 align="center">Hi 👋, I'm Shivam Choubey</h1>
 <h3 align="center">A passionate Data Science Engineer with Expertise in AI & ML.</h3>
 
